@@ -1,0 +1,1 @@
+first change the directory to your project location
