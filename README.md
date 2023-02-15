@@ -12,3 +12,6 @@
 
 
 ## To run the notebook pip install all the requirements and run the main.ipynb file and for streamlit run stream.py
+
+
+![IMG_20230215_115729](https://user-images.githubusercontent.com/75130402/218949930-7de89a79-1dea-47d9-9a7f-792d7b3da853.jpg)
