@@ -11,4 +11,4 @@
  - I have tested the model with various algorithms such as Logistic Regression,Naive Bayes,KNN classifier and XGBoost classifier,after evaluating accuracy with confusion matrix i have choosen Logistic Regression with accuracy of 83% and high TP,TN and low FN,FP
 
 
-## To run the notebook pip install all the requirements and run the main.ipynb file
+## To run the notebook pip install all the requirements and run the main.ipynb file and for streamlit run stream.py
