@@ -8,4 +8,4 @@
 
  - I have Vectorize the data using Tfidf(Term frequency Inverse Document frequency)
 
- - I have tested the model with various algorithms such as Logistic Regression,Naive Bayes,KNN classifier and XGBoost classifier,after evaluating accuracy and f1 score i have choosen Logistic Regression with accuracy of 83.12% and high TP,TN and low FN,FP
+ - I have tested the model with various algorithms such as Logistic Regression,Naive Bayes,KNN classifier and XGBoost classifier,after evaluating accuracy with confusion matrix i have choosen Logistic Regression with accuracy of 83% and high TP,TN and low FN,FP
