@@ -1,5 +1,5 @@
 
-# Amazon_sentiment_proj <a href="https://namangupta2001-amazon-sentiment-proj-stream-3y4oar.streamlit.app/">(link)</a>
+# Amazon_sentiment_proj <a href="https://namangupta2001-amazon-sentiment-proj-stream-3y4oar.streamlit.app/">(Deployed link)</a>
 
 
 
